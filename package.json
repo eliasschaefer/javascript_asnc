@@ -1,0 +1,19 @@
+{
+  "name": "javascript_async",
+  "version": "0.0.1",
+  "description": "",
+  "main": "build/javascript_async.js",
+  "scripts": {
+    "start": "src/javascript_async.js",
+    "dev": "nodemon src/javascript_async.js"
+  },
+  "author": "eschaefer",
+  "dependencies": {
+    "eslint": "^4.4.0"
+  },
+  "devDependencies": {
+    "@types/es6-promise": "0.0.32",
+    "@types/node": "^8.0.19",
+    "nodemon": "^1.11.0"
+  }
+}
